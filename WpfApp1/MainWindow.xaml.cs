@@ -50,7 +50,7 @@ namespace WpfApp1
 
                 string nextEmoji = animalEmoji[index];
                 textblock.Text = nextEmoji;
-                animalEmoji.RemoveAt(index);
+                animalEmoji.RemoveAt(index);//fdsfdsf
             }
 
 
